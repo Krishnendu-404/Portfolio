@@ -70,6 +70,13 @@ nav ul li a:hover {
   font-size: 1rem;
 }
 
+section {
+  border-bottom: 1px solid #444; /* dark gray line */
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+
 /* Profile Image */
 .hero-image img {
   max-width: 300px;
