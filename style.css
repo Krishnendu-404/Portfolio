@@ -19,6 +19,12 @@ header {
   padding: 1rem 0;
 }
 
+section {
+  border-bottom: 1px solid #444; /* dark gray line */
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
 
 nav ul {
   display: flex;
